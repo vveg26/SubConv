@@ -49,7 +49,7 @@ namespace SubConv
             string filenamefull = filename + ed;
             string encodefilenamefull = HttpUtility.UrlEncode(filenamefull, Encoding.UTF8);
             
-            string configUrl = $"http://127.0.0.1:25500/sub?target={type}&url={encodeUrl}&filename={filename}";
+            string configUrl = $"http://127.0.0.1:25500/sub?target={type}&url={encodeUrl}";
 
             if (checkBoxUpload.Checked)
             {
