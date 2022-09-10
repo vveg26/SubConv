@@ -1,0 +1,11 @@
+C:\Users\VEG26\OneDrive\WorkStation\c#\SubConv\SubConv\SubConv\bin\Release\SubConv.exe.config
+C:\Users\VEG26\OneDrive\WorkStation\c#\SubConv\SubConv\SubConv\bin\Release\SubConv.exe
+C:\Users\VEG26\OneDrive\WorkStation\c#\SubConv\SubConv\SubConv\bin\Release\SubConv.pdb
+C:\Users\VEG26\OneDrive\WorkStation\c#\SubConv\SubConv\SubConv\obj\Release\SubConv.csproj.AssemblyReference.cache
+C:\Users\VEG26\OneDrive\WorkStation\c#\SubConv\SubConv\SubConv\obj\Release\SubConv.csproj.SuggestedBindingRedirects.cache
+C:\Users\VEG26\OneDrive\WorkStation\c#\SubConv\SubConv\SubConv\obj\Release\SubConv.SubConv.resources
+C:\Users\VEG26\OneDrive\WorkStation\c#\SubConv\SubConv\SubConv\obj\Release\SubConv.Properties.Resources.resources
+C:\Users\VEG26\OneDrive\WorkStation\c#\SubConv\SubConv\SubConv\obj\Release\SubConv.csproj.GenerateResource.cache
+C:\Users\VEG26\OneDrive\WorkStation\c#\SubConv\SubConv\SubConv\obj\Release\SubConv.csproj.CoreCompileInputs.cache
+C:\Users\VEG26\OneDrive\WorkStation\c#\SubConv\SubConv\SubConv\obj\Release\SubConv.exe
+C:\Users\VEG26\OneDrive\WorkStation\c#\SubConv\SubConv\SubConv\obj\Release\SubConv.pdb
